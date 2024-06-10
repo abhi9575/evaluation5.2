@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+
+}
+
+.head{
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+}
+
+.sav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.sav >div:nth-of-type(1) img{
+    max-width: 106px;
+    height: 117px;
+    top: 21px;
+    left: -513px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.sav >div:nth-of-type(1) img h1{
+
+    font-family: ZCOOL KuaiLe;
+font-size: 32px;
+font-weight: 400;
+line-height: 32px;
+text-align: center;
+
+}
+
+.sav >div:nth-of-type(2) {
+
+background-color: #191818;
+border-radius: 20px;
+color: white;
+
+}
+.sav >div:nth-of-type(2) ul {
+
+margin: 0;
+padding: 0;
+display: inline;
+    
+    }
+    .sav >div:nth-of-type(2) li {
+
+        display: inline;
+        padding: 16px 24px;
+            
+            }
+
+            .sav >div:nth-of-type(3) button {
+
+                font-family: Poppins;
+                font-size: 12px;
+                font-weight: 600;
+                line-height: 18px;
+                text-align: left;
+                background: linear-gradient(93.73deg, #D51B46 10.19%, #EE6910 98.19%);
+
+                
+                    
+                    }
+
+
+
+
+
+
+
+.container{
+    max-width: 1160px;
+}
+
+
+#intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #191818;
+    background-position: center;
+    background-size:cover ;
+    
+}
+#intro .container >div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: ;
+}
+#intro .container >div >div:nth-of-type(1) h1{
+font-family: Shojumaru;
+font-size: 44px;
+font-weight: 400;
+line-height: 52.36px;
+text-align: left;
+color: #ED0137;
+
+}
+
+#intro .container >div >div:nth-of-type(1) p{
+    font-family: ZCOOL KuaiLe;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.56px;
+    text-align: left;
+    font-family: ZCOOL KuaiLe;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.56px;
+text-align: left;
+color: white;
+
+    
+}
+
+#intro .container >div >div:nth-of-type(1) button{
+    width: 178px;
+    height: Hug 54px;
+  
+    padding: 17.03px 21.29px 17.03px 21.29px;
+    gap: 11.35px;
+    border-radius: 21.92px;
+    opacity: 0px;
+    background: linear-gradient(93.73deg, #D51B46 10.19%, #EE6910 98.19%);
+    padding: 17px 21px;
+
+    
+    
+}
+
+
+#intro .container >div >div:nth-of-type(2){
+   
+}
+
+
+
+
+#card{
+
+    background-image: url(https://s3-alpha-sig.figma.com/img/7fb8/c9c7/2e63edc105c3925cfa651946f437c2fd?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hdP4FLyi9hVrXDZhu1xm9L3ho0v8OKkB2uEC1Q2VUIwedrjQGJvvuelZxHfak0co7qxBFm9Vs8uKST261p3Hh7rV2bs31kDMfcA5ljHhLSiigOhQegHekqCIsMBQ9tuMc1e9x2zwcdx6T6bsp~fwlfzWX4k4xSWiTRVpLL2z~Vhrhge~W6Ny7Q5rUKreHEHAlSxc~5iIUxcq3VobS4K4fddRoH5cbpL6GRPjW7lcBi84uGqsmKkB0arUBFnCkokaQ1Fb8-FTVlsd6LUXI1zFPdYUMK-izTHT9UDjlTKJxyhPWAzLXqhhGOrVwbqEWNFBp3UznRm6-8a6JZd8Kzo-FQ__);
+    background-position: center;
+    background-size:cover ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+height: 716px;
+
+
+}
+#card >div >h1{
+
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:50px ;
+}
+#card >div >div >div:nth-of-type(1){
+
+    
+}
+#card >div >div >div:nth-of-type(1) img{
+    width: 237.06px;
+    height:  349px;
+    border-radius: 13.17px;
+    border: 1px solid red;
+}
+
+#card >div >div >div:nth-of-type(2) img{
+    width: 237.06px;
+    height:  349px;
+    border-radius: 13.17px;
+    border: 1px solid red;
+}
+#card >div >div >div:nth-of-type(3) img{
+    width: 237.06px;
+    height:  349px;
+    border-radius: 13.17px;
+    border: 1px solid red;
+}
+#card >div >div >div:nth-of-type(4) img{
+    width: 237.06px;
+    height:  349px;
+    border-radius: 13.17px;
+    border: 1px solid red;
+}
